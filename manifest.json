@@ -1,0 +1,15 @@
+{
+    "name": "Gotum yemedi butonu",
+    "version": "0.0.1",
+    "description": "Gündem hakkında bir şeyler yazmaya korkuyormusun? Korkma! Artık götüm yemedi butonu var.",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_title": "G*tum yemedi butonu"
+    },
+    "icons": {
+        "16": "./assets/icon_16.png",
+        "48": "./assets/icon_48.png",
+        "128": "./assets/icon_128.png"
+      }
+    
+}
